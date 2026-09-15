@@ -37,6 +37,7 @@ The output of Instumentation amplifier is given by
 
   **MODEL GRAPH:**
 
+<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/dedd8508-d79f-4a78-8a08-9e99cb0a0668" />
 
   **TABULATION:**
  
